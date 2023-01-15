@@ -3,8 +3,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdtmf357)](https://solved.ac/wkdtmf357)
 
-### Velog
-https://velog.io/@wkdtmf357
 ### Skills
 #### Languages & Libraries  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Java-1578D3?style=plasticl&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plasticl&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=plasticl&logo=NumPy&logoColor=white"/>
