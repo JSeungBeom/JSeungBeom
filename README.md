@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats-liard-seven-91.vercel.app/api?username=JSeungBeom)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-gold-phi-89.vercel.app/api?username=JSeungBeom)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdtmf357)](https://solved.ac/wkdtmf357)
 
