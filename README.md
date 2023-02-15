@@ -7,6 +7,7 @@
 #### Languages & Libraries  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Java-1578D3?style=plasticl&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plasticl&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=plasticl&logo=NumPy&logoColor=white"/>
 
+<!--
 **JSeungBeom/JSeungBeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
