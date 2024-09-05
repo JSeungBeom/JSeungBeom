@@ -18,7 +18,7 @@
 #### Cloud services
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"/><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=plastic&logo=Amazon RDS&logoColor=white"/>
 
-#### Collboration Tools
+#### Collaboration Tools
 <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/><img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/>
 
 
