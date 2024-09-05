@@ -12,11 +12,15 @@
 #### Databases
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/>
 
+#### ORM
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white"/>
+
 #### Cloud services
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"/><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=plastic&logo=Amazon RDS&logoColor=white"/>
 
 #### Collboration Tools
 <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/><img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/>
+
 
 <!--
 **JSeungBeom/JSeungBeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
