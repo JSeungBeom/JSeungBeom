@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Java-1578D3?style=plasticl&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plasticl&logo=Python&logoColor=white"/>
 
 #### Frameworks & Libraries
-<img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white"/><img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white"/><img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/>
 
 #### Databases
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/>
